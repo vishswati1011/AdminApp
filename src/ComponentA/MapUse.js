@@ -17,5 +17,5 @@ class  MapUse extends Component{
 
 }
 export default GoogleApiWrapper({
-  apiKey: ("AIzaSyAiICi1mT02PdwFP6QCkmL7aOidnZ6x3So")
+  apiKey: ("Map Api Key")
 })(MapUse)
